@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="./cssbai1.css">
+	<title></title>
+</head>
+<body>
+<h1>Form Information</h1>
+<form action="" method="GET">
+<br>
+Họ tên <input onchange ="return hienthiten(this)" type="text" id="ip1" placeholder="Nhập tên của bạn..." >
+<br>
+Tuổi <input type="text" id="ip2" onchange="return hienthituoi(this)" placeholder="Nhập tuổi của bạn..." >
+<br>
+<input type="submit" onclick="Hienthi()" value="Hiển thị thông tin" id="ip3" />
+<div id="dis">
+
+</div>
+</form>
+<script src="https://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript" src="./jsb1.js"></script>
+</body>
+</html>

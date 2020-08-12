@@ -1,0 +1,29 @@
+ul{
+	padding-top: 10px;
+}
+form{
+	width:700px;
+	height:140px;
+	background-color: gray;
+}
+form #t1{
+	margin-top: 10px;
+	margin-right: 71px;
+}
+form #a1{
+	margin-top: 10px;
+}
+form #r1{
+	margin-top: 10px;
+	margin-right: 50px;
+}
+form #k1{
+	margin-top: 10px;
+}
+button{
+	margin-left:531px;
+	margin-top: 20px;
+}
+form ul #tiau{
+	margin-left: 51px;
+}
