@@ -1,0 +1,26 @@
+h3 {
+    color: red;
+    margin-left: 20px;
+}
+#row {
+    display: flex;
+    border-bottom: 1px solid black;
+    margin: 0px 20px;
+}
+img {
+    width: 175px;
+    height: 130px;
+    margin-left: 70px;
+}
+a {
+    margin-left: 130px;
+}
+.col {
+    margin-right: 20px;
+}
+.div-col{
+	margin-top: 10px;
+}
+span{
+	margin-left: 20px;
+}

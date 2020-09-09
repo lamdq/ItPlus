@@ -1,0 +1,37 @@
+div{
+	background-color: #d8da3d;
+	padding-left: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+ul{
+	color: #88107b;
+}
+.li1{
+	color: #001be0;
+	margin-bottom: -16px;
+}
+div #div2{
+	color:#88107b; 
+}
+#p1{
+	float: left;
+	margin-right: 5px;
+}
+#number1{
+	margin-top: 20px;
+	float: left;
+	margin-right: 5px;
+}
+#p2{
+	float: left;
+	margin-right: 5px;
+}
+#number2{
+	margin-top: 20px;
+	float: left;
+}
+#my1{
+	margin-left: -124px;
+}
+

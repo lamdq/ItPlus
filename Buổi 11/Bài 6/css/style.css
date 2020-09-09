@@ -1,0 +1,21 @@
+form {
+    width: 27%;
+    margin: auto;
+    padding: 0px 20px;
+    border: 1px solid lawngreen;
+    margin-top: 50px;
+}
+.banner {
+    border-bottom: 1px solid greenyellow;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: 20px;
+}
+h2 {
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+input.btn.btn-success {
+    margin-bottom: 20px;
+}

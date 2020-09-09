@@ -1,0 +1,149 @@
+/*
+Fonts:
+-Inconsolata Regular
+-PlayfairDisplay
+-Ubuntu Light
+*/
+@font-face{
+	font-family: 'Inconsolata';
+	src: url('../fonts/Inconsolata-Regular.ttf');
+	font-family: 'PlayfairDisplay';
+	src:url('../fonts/PlayfairDisplay-Regular.ttf');
+	font-family: 'Ubuntu';
+	src:url('../fonts/Ubuntu-Light');
+}
+body {
+    margin: auto;
+    font-family: PlayfairDisplay;
+}
+header {
+    display: flex;
+    padding: 30px 0px;
+    text-transform: uppercase;
+    width: 79%;
+    margin: auto;
+}
+nav{
+	margin: auto;
+	width: 79%;
+}
+header .col{
+	width: 50%;
+}
+h1 {
+    margin: 0px;
+    font-family: Inconsolata;
+    letter-spacing:3px;
+    font-weight: unset;
+}
+ul {
+    display: flex;
+    list-style: none;
+    margin: 13px 0px;
+    padding: 0px;
+}
+li {
+    margin-right: 84px;
+    font-size: 15px;
+}
+a {
+    text-decoration: none;
+    color: #868686;
+}
+.uppercase {
+    color: #DBD8D2;
+    text-transform: uppercase;
+    font-size: 12px;
+    display: block;
+    margin-top: 40px;
+    font-family: Ubuntu;
+}
+.content {
+    width: 79%;
+    margin: auto;
+    padding: 70px 0px;
+}
+
+h2 {
+    margin: 20px 0px;
+    color: #626262;
+    display:block;
+}
+.row {
+    display: flex;
+    width: 79%;
+    margin: auto;
+}
+.col {
+    width: 50%;
+    margin: 20px;
+    padding-left: -20px;
+}
+.f-content {
+    padding-right: -101px;
+    margin-right: 70px;
+}
+.quote {
+    background: #F0F0F0;
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+.quote-2 {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    width: 30%;
+    height: 60%;
+    top: 0px;
+    bottom: 0px;
+}
+form {
+    border-bottom: 1px solid darkgray;
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 11px;
+}
+input[type="text"] {
+    float: left;
+    background: #F0F0F0;
+    border: none;
+    margin-left: 0px;
+    color: #909090;
+    font-size: 11px;
+}
+form img {
+    margin-top: -25px;
+    margin-left: 78px;
+    height: 25px;
+}
+.submit{
+	text-align: center;
+}
+button {
+    margin: auto;
+    height: 50px;
+    width: 150px;
+    background: white;
+    border: 1px solid #656565;
+    color: #656565;
+    font-size: 20px;
+}
+footer {
+    background: #F0F0F0;
+    display: flex;
+    margin-top: 100px;
+    height: 60px;
+    line-height: 60px;
+}
+.footer {
+    width: 50%;
+    padding-left: 100px;
+}
+span {
+    margin-left: 20px;
+}
+.contact {
+    padding-left: 200px;
+}

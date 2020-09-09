@@ -1,0 +1,27 @@
+h2{
+	color:#ff0000;
+	margin-bottom: 10px;
+	margin-left: 40px;
+}
+table tr #hello2{
+ color: #0000ff;
+}
+table tr #big1{
+ font-size: 24px;
+}
+table tr #small1{
+ font-size: 11px;
+}
+table tr td #p1{
+	float: left;
+	margin-top: 10px;
+}
+table tr td #p2{
+	
+}
+table tr td #p3{
+	float: left;
+}
+table tr td #p4{
+margin-top: 10px;
+}

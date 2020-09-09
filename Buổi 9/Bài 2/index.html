@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/script.js"></script>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<form action="" method="GET" id="form-sb">
+		<h2>Spring MVC Form Demo - Registration</h2>
+		<div class="row">
+			<div class="col">
+				<label for="use-name">
+					User Name:
+				</label>
+			</div>
+			<div class="col">
+				<input type="text" id="use-name" name="">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<label for="password">
+					Password:
+				</label>
+			</div>
+			<div class="col">
+				<input type="Password" id="password" name="">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<label for="mail">
+					E-Mail:
+				</label>
+			</div>
+			<div class="col">
+				<input type="E-Mail" id="mail" name="">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				<label for="date">
+					Birthday(mm/dd/yyyy)
+				</label>
+			</div>
+			<div class="col">
+				<input type="text" id="date" name="">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				Profession
+			</div>
+			<div class="col col-select">
+				<select class="form-group" id="selected">
+					<option selected=''>Select</option>
+					<option value="Developer">Developer</option>
+					<option value="Designer">Designer</option>
+					<option value="Programmer">Programmer</option>
+				</select>
+			</div>
+		</div>
+		<div class="row row-sb">
+			<input type="submit" value="Register" name="">
+		</div>
+		<p id="result"></p>
+	</form>
+</body>
+</html>

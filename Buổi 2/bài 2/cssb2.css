@@ -1,0 +1,15 @@
+#div1{
+	width: 500px;
+	height: 250px;
+	background-color: #008000;
+}
+#ul1{
+	width: 450px;
+	height: 86px;
+	background-color: #ff0000;
+	padding-left: 30px;
+}
+h1,p,ul{
+	margin-left: 10px;
+	padding-left: 10px;
+}

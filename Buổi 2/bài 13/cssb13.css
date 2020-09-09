@@ -1,0 +1,94 @@
+#div1{
+	text-align: center;
+	width: 800px;
+	height: 700px;
+	background-color: #a9d7d1;
+}
+#p0{
+	padding-top: 30px;
+	margin-bottom: 0px;
+}
+#f1{
+	background-color: white;
+	margin: 20px 10px 10px 10px;
+	height: 600px; 
+}
+#name1{
+	margin: 15px 0px 10px 10px;
+}
+#email1{
+	margin: 10px 0px 10px 12px;
+}
+#age1{
+	margin: 10px -14px 10px 10px;
+}
+#select1{
+	margin: 10px 348px 10px 10px;
+}
+#p1{
+	margin-left: 56px;
+	margin-top: 0px;
+	float: left;
+}
+#radio1{
+	margin-left: -344px;
+	clear: both;
+}
+#radio2{
+	margin-left: -366px;
+	clear: both;
+}
+#radio3{
+	margin-left: -355px;
+	
+}
+#select2{
+	margin: 10px 198px 10px 7px;
+}
+#p2{
+	margin-left: 44px;
+	margin-top: 0px;
+	float: left;
+}
+#checkbox1{
+	margin-left: -292px;
+	margin-bottom: 10px;
+}
+#checkbox2{
+	margin-left: -294px;
+	margin-bottom: 10px;
+}
+#checkbox3{
+	margin-left: 29px;
+	margin-bottom: 10px;
+}
+#checkbox4{
+	margin-left: -9px;
+	margin-bottom: 10px;
+}
+#checkbox5{
+	margin-left: 77px;
+	margin-bottom: 10px;
+}
+#checkbox6{
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+#p3{
+	margin-left: 128px;
+	float: left;
+	margin-top: 0px;
+}
+#textarea1{
+	margin-right: 266px;
+}
+#bt1{
+	width: 60px;
+	height: 25px;
+	margin-top: 10px;
+	margin-right: 120px;
+	background-color: #59ace0;
+	border: 0px;
+	border-radius: 6px;
+	color: white;
+}

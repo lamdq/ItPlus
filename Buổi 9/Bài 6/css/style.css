@@ -1,0 +1,17 @@
+#form-sb {
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+    border: 4px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+    padding: 10px;
+}
+.banner {
+    color: indianred;
+}
+input[type="submit"] {
+    margin-left: 138px;
+}
+i.far.fa-file {
+    margin-left: 76px;
+}

@@ -1,0 +1,26 @@
+.logo {
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+form {
+    width: 50%;
+    margin: auto;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+input.btn.btn-primary.btn-lg.btn-block {
+    background: #FFD662;
+    border: none;
+    color: black;
+}
+h2 {
+    margin: 0px;
+    padding: 0px;
+}

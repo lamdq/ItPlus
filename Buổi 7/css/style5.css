@@ -1,0 +1,7 @@
+.col-lg-3.col-sm-12.col {
+    border: 1px solid gray;
+    margin: 5px;
+}
+.row-lg {
+flex-wrap:unset;
+}

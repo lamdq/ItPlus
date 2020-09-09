@@ -1,0 +1,49 @@
+header {
+    background: #CC0001;
+    height: 80px;
+}
+header p {
+    margin: 0px;
+    line-height: 70px;
+    color: white;
+    font-size: 45px;
+ 	padding-left: 20px;
+}
+nav {
+    background: #0000CC;
+    height: 40px;
+}
+nav ul {
+    display: flex;
+    margin: 0px 0px 0px -20px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: unset;
+    padding-right: 30px;
+    line-height: 40px;
+}
+section {
+	margin-top: 10px;
+    display: flex;
+}
+#content {
+    width: 70%;
+    padding-right: 20px;
+}
+#menu {
+    border: 1px solid black;
+    width: 30%;
+    margin-top: 10px;
+    height: 250px;
+}
+h3 {
+    margin-left: 10px;
+}
+footer {
+    background: #AAAAAA;
+    height: 50px;
+    line-height: 50px;
+    color: white;
+    padding-left: 20px;
+}

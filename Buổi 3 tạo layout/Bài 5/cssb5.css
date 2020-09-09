@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+header {
+    background: #EFEFEF;
+    height: 50px;
+}
+h1 {
+    margin: 0px;
+}
+nav {
+    background: #EFEFEF;
+    height: 50px;
+    line-height: 50px;
+}
+ul {
+    display: flex;
+    margin-left: 450px;
+}
+li {
+    margin-right: 20px;
+}
+a {
+    color: #775AAF;
+    font-weight: bold;
+}
+section {
+    margin: 20px 0px;
+}
+#feature {
+    background: #efefef;
+    height: 150px;
+}
+#row {
+    display:flex;
+}
+.col {
+    background: #efefefef; 
+    width: 33%;
+    height: 300px;
+    margin: 15px 20px 15px 0px;
+}
+
+.clo3 {
+    margin-right: 0px;
+}
+footer {
+    background: #efefef;
+    height: 100px;
+    line-height: 100px;
+}

@@ -1,0 +1,35 @@
+body{
+	border: 2px solid black;
+	margin: 4px;
+}
+#banner {
+    height: 30px;
+    width: 100%;
+    border-bottom: 2px solid black;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.row {
+    margin-top: 20px;
+    display: flex;
+}
+.cols1 {
+    border: 1px solid black;
+    width: 30%;
+    height: 100px;
+    margin: 0px 20px 20px 20px;
+    background: #EA9999;
+}
+.cols2 {
+    background: #9FC5F8;
+    width: 65%;
+    height: 100px;
+    border: 1px solid black;
+}
+#div4 {
+    background: #FFE599;
+    height: 100px;
+    border: 1px solid black;
+    margin: 20px 20px;
+}
